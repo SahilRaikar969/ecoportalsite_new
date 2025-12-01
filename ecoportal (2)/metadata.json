@@ -1,8 +1,0 @@
-{
-  "name": "EcoPortal",
-  "description": "Premium Eco-tracking application with offline scanner, maps, and rewards.",
-  "requestFramePermissions": [
-    "camera",
-    "geolocation"
-  ]
-}
